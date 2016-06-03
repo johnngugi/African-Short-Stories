@@ -1,1 +1,1 @@
-[African-Short-Stories](african-short-stories.html)
+[African-Short-Stories](african-short-stories.html.md)
